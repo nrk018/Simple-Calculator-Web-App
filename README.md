@@ -2,6 +2,9 @@
 
 This repository hosts a **simple yet functional** calculator application created using **HTML**, **CSS**, and **JavaScript**. The calculator is designed to perform basic arithmetic operations with a clean and user-friendly interface.
 
+![image](https://github.com/user-attachments/assets/ba92ee0c-5bf4-48fe-bc35-f1545b3083d2)
+
+
 ## **Features**
 
 - **Basic Arithmetic Operations**: Supports **addition**, **subtraction**, **multiplication**, and **division**.
