@@ -38,5 +38,3 @@ Contributions are welcome! If you have any suggestions, please feel free to fork
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Happy Calculating!
